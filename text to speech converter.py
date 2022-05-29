@@ -17,7 +17,7 @@ root.title('DataFlair - TEXT_TO_SPEECH')
 
 
 ##heading
-Label(root, text = 'TEXT_TO_SPEECH' , font='arial 20 bold' , bg ='light cyan').pack()
+Label(root, text = 'TEXT_TO_SPEECH' , font='arial 20 bold' , bg ='gray').pack()
 Label(root, text ='' , font ='arial 15 bold', bg = 'light cyan').pack(side = BOTTOM)
 
 
